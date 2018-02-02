@@ -1,0 +1,18 @@
+/* Note styles */
+.Note {
+  padding: 10px;
+  background-color: rgb(6, 192, 99);
+  width: 250px;
+  min-height: 80px;
+  border: 2px rgb(236, 215, 215) solid;
+  border-radius: 5px;
+  color: rgb(236, 215, 215);
+  margin-bottom: 15px;
+  list-style-type: none;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  overflow-wrap: 
+  
+}

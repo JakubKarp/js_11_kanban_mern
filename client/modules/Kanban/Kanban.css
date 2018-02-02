@@ -1,0 +1,13 @@
+/* Kanban styles */
+.KanbanContainer {
+}
+
+.FlexContainer {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
+.AddLane {
+  margin-left: 50px
+}
